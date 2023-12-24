@@ -11,6 +11,7 @@ public class Main {
         //Sequence.Run();
         //NegatineSequence.Run();
         //Square.Run();
-        Fibonashi.Run();
+        //Fibonashi.Run();
+        Bank.Run();
     }
 }
