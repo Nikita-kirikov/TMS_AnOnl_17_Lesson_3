@@ -7,6 +7,7 @@ public class Main {
         //Rainbow.Run();
         //Odd.Run();
         //Dec.Run();
-        Sum.Run();
+        //Sum.Run();
+        Sequence.Run();
     }
 }
