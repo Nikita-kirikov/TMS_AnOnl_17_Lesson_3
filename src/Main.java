@@ -6,6 +6,7 @@ public class Main {
         //Temperature.Run();
         //Rainbow.Run();
         //Odd.Run();
-        Dec.Run();
+        //Dec.Run();
+        Sum.Run();
     }
 }
