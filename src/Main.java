@@ -5,6 +5,7 @@ public class Main {
         //EvenOrOdd.Run();
         //Temperature.Run();
         //Rainbow.Run();
-        Odd.Run();
+        //Odd.Run();
+        Dec.Run();
     }
 }
