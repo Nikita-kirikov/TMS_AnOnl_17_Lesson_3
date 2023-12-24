@@ -8,6 +8,7 @@ public class Main {
         //Odd.Run();
         //Dec.Run();
         //Sum.Run();
-        Sequence.Run();
+        //Sequence.Run();
+        NegatineSequence.Run();
     }
 }
