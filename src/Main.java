@@ -3,6 +3,7 @@ public class Main {
         //SeasonsSwitch.Run();
         //SeasonsIf.Run();
         //EvenOrOdd.Run();
-        Temperature.Run();
+        //Temperature.Run();
+        Rainbow.Run();
     }
 }
