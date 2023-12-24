@@ -10,6 +10,7 @@ public class Main {
         //Sum.Run();
         //Sequence.Run();
         //NegatineSequence.Run();
-        Square.Run();
+        //Square.Run();
+        Fibonashi.Run();
     }
 }
