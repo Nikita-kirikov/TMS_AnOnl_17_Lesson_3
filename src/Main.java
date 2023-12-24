@@ -4,6 +4,7 @@ public class Main {
         //SeasonsIf.Run();
         //EvenOrOdd.Run();
         //Temperature.Run();
-        Rainbow.Run();
+        //Rainbow.Run();
+        Odd.Run();
     }
 }
