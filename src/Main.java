@@ -12,6 +12,7 @@ public class Main {
         //NegatineSequence.Run();
         //Square.Run();
         //Fibonashi.Run();
-        Bank.Run();
+        //Bank.Run();
+        MultiplicationTable.Run();
     }
 }
